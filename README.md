@@ -1,5 +1,5 @@
 # NLP-spam-detection
-Train n-gram language model with different kinds of smoothing methods. 
+Train n-gram language model with different kinds of smoothing methods. \n
 Do classification by conditional log-linear model
 
 Command:
